@@ -1,5 +1,6 @@
 ## Jeffrey Sackett
 Denver, CO
+
 jsack777 at gmail dot com
 
 ## EXPERIENCE
