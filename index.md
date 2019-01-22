@@ -2,9 +2,9 @@
 Denver, CO
 jsack777 at gmail dot com
 
-## `EXPERIENCE`
+## EXPERIENCE
 
-### Sr Software Engineer
+## Sr Software Engineer
 May 2013 - Present
 Itron/Comverge | Denver, CO
 
@@ -17,7 +17,7 @@ Bash scripts, and capistrano used for continuous delivery. Recent migration to d
 Pair programming and mentoring of junior developers.
 
 
-### Sr. Software Developer
+## Sr. Software Developer
 April 2008 - April 2013 
 Pearson | Iowa City, Iowa
 
@@ -26,13 +26,13 @@ Ruby on Rails web application development. Integrating various application web s
 Pearson primarily uses MySQL database as Rails DB engine with memcache backed caching engine. I have also integrated Oracle schemas into various applications. I have researched the use of MongoDB.
 
 
-### Software Engineer
+## Software Engineer
 October 1995 - December 2007
 Primus Telecommunications | Coralville, Iowa
 
 Software development for the telecommunications industry using C/C++, perl, and bash. Application and system level development for automated call processing, TCP/IP client-server communications in a heterogeneous computing environment.
 
-### Programmer/Analyst
+## Programmer/Analyst
 July 1991 - October 1995
 MCI Communications | Cedar Rapids, IA
 
@@ -41,7 +41,7 @@ Named on a patent for distributed service access methods. Enhanced proprietary n
 Similar duties as performed for Primus.
 
 
-## `EDUCATIOON`
+## EDUCATIOON
 
 Master's Degree,
 January 1989 - December 1990
