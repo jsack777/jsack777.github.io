@@ -3,7 +3,6 @@ Denver, CO
 
 jsack777 at gmail dot com
 
-## EXPERIENCE
 
 ## Sr Software Engineer
 May 2013 - Present
@@ -33,6 +32,7 @@ Primus Telecommunications | Coralville, Iowa
 
 Software development for the telecommunications industry using C/C++, perl, and bash. Application and system level development for automated call processing, TCP/IP client-server communications in a heterogeneous computing environment.
 
+
 ## Programmer/Analyst
 July 1991 - October 1995
 MCI Communications | Cedar Rapids, IA
@@ -42,8 +42,7 @@ Named on a patent for distributed service access methods. Enhanced proprietary n
 Similar duties as performed for Primus.
 
 
-## EDUCATIOON
-
+## Education
 Master's Degree,
 January 1989 - December 1990
 University Of Iowa | Iowa City, Iowa
